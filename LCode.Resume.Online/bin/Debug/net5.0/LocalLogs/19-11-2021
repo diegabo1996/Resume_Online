@@ -1,0 +1,12 @@
+
+-------------------------------------------------------------------------------------------------------------------------
+19/11/2021 17:49:39
+Log-Excepcion::: Datos - Nombre Proyecto: LCode.Resume.Online
+Nombre Archivo: 
+Nombre de Clase: System.Runtime.ExceptionServices.ExceptionDispatchInfo
+Nombre Metodo: Void Throw()
+Numero Linea: 0
+Numero Columna: 0
+Mensaje Error: The configuration file 'appsettings.base.json' was not found and is not optional. The physical path is 'D:\Soluciones\Visual Studio\Personal\LCode.Resume.Online\LCode.Resume.Online\bin\Debug\net5.0\appsettings.base.json'.
+Mensaje Detallado: 
+-------------------------------------------------------------------------------------------------------------------------
